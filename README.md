@@ -6,7 +6,8 @@
                                           made by jewon : help by YeonLim 
                                                     made with C
                                                     
-                            cd this file and you can Execution  this command ./Godhack.out
+                                       you should type this commend : chmod +x Godhack.out
+                            cd this file and you can Execution this command ./Godhack.out
                                              you can make easy back door 
                                 
                                                   Information
